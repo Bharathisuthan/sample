@@ -1,2 +1,2 @@
 # Sample Github hosting...
-'https://bharathisuthan.github.io/sample/'
+https://bharathisuthan.github.io/sample/
